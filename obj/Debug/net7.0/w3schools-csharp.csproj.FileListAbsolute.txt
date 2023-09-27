@@ -1,0 +1,15 @@
+/Users/morganlinn/Tutorials/w3schools-csharp/bin/Debug/net7.0/w3schools-csharp
+/Users/morganlinn/Tutorials/w3schools-csharp/bin/Debug/net7.0/w3schools-csharp.deps.json
+/Users/morganlinn/Tutorials/w3schools-csharp/bin/Debug/net7.0/w3schools-csharp.runtimeconfig.json
+/Users/morganlinn/Tutorials/w3schools-csharp/bin/Debug/net7.0/w3schools-csharp.dll
+/Users/morganlinn/Tutorials/w3schools-csharp/bin/Debug/net7.0/w3schools-csharp.pdb
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.csproj.AssemblyReference.cache
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.AssemblyInfoInputs.cache
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.AssemblyInfo.cs
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.csproj.CoreCompileInputs.cache
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.dll
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/refint/w3schools-csharp.dll
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.pdb
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/w3schools-csharp.genruntimeconfig.cache
+/Users/morganlinn/Tutorials/w3schools-csharp/obj/Debug/net7.0/ref/w3schools-csharp.dll
